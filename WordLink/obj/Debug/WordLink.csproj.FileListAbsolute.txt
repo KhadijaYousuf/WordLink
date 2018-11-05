@@ -1,0 +1,11 @@
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\bin\Debug\WordLink.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\bin\Debug\WordLink.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.csprojResolveAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.csproj.GenerateResource.Cache
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.exe
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.pdb
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.Main.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.Form2.resources
+C:\Users\ACER\Documents\Visual Studio 2012\Projects\WordLink\WordLink\obj\Debug\WordLink.Form3.resources
